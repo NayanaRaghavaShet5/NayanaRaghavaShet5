@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Nayana Raghava Shet
-- 👀 I’m a Web developer with 6+ years of experience
+- 👋 Hi, I’m Nayana R
+- 👀 I’m a Web developer with 3+ years of experience
 - 📫 How to reach me<br>
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> nayanarshet5@gmail.com <br>
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> https://www.linkedin.com/in/nayana-raghava <br>
